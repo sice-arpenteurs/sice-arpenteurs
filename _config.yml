@@ -2,15 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+url: http://sicearpenteurs.com
+title: Sicé Arpenteurs-Géomètre
+email: sice@sicearpenteurs.com
+author: Yves Sicé
+description: > Le document requis dans une transaction immobilière est le certificat de localisation.
+  Ce document doit être fourni par l'arpenteur-géomètre.Sur la Rive-Sud et ailleurs, nous en avons
+  préparé plus de 13000 depuis 53 ans. Notre étude offre également toute une gamme de services
+  d’arpentage allant de la pose de bornes à l’expertise.
+copyright: 'Copyright &copy; 2017 Gabriel Bédard Sicé. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -26,9 +26,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+  - icon: Contactez-nous
+    icon: envelope
+    url: sice@sicearpenteurs.com
