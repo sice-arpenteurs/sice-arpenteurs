@@ -6,12 +6,9 @@ url: http://sicearpenteurs.com
 title: Sicé Arpenteurs-Géomètre
 email: sice@sicearpenteurs.com
 author: Yves Sicé
-description: > Le document requis dans une transaction immobilière est le certificat de localisation.
-  Ce document doit être fourni par l'arpenteur-géomètre.Sur la Rive-Sud et ailleurs, nous en avons
-  préparé plus de 13000 depuis 53 ans. Notre étude offre également toute une gamme de services
-  d’arpentage allant de la pose de bornes à l’expertise.
+description: Le document requis dans une transaction immobilière est le certificat de localisation. Ce document doit être fourni par l'arpenteur-géomètre.Sur la Rive-Sud et ailleurs, nous en avons préparé plus de 13000 depuis 53 ans. Notre étude offre également toute une gamme de services d’arpentage allant de la pose de bornes à l’expertise.
 copyright: 'Copyright &copy; 2017 Gabriel Bédard Sicé. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Credits: <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,6 +23,7 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - icon: Contactez-nous
+  - title: Courriel
     icon: envelope
-    url: sice@sicearpenteurs.com
+    url: "mailto:sice@sicearpenteurs.com"
+    target: _blank
